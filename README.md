@@ -17,14 +17,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy openpyxl
 
 ## What the notebook covers
 
-- **Q1** — Key features of the dataset
-- **Q2** — Trends and patterns in the data
-- **Q3** — Factors influencing degradation
-- **Q4** — Comparison of formulations A014 vs B025
-- **Q5** — Exponential decay modelling
-- **Q6** — Limitations and future study suggestions
+- **Q1** - Key features of the dataset
+- **Q2** - Trends and patterns in the data
+- **Q3** - Factors influencing degradation
+- **Q4** - Comparison of formulations A014 vs B025
+- **Q5** - Exponential decay modelling
+- **Q6** - Limitations and future study suggestions
 
-## Notes
-
-- Data file not included — add your own copy of `KTP_task_datasets.xls`
-- Tested on Python 3.13
