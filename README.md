@@ -1,4 +1,4 @@
-# KTP Stability Study — Data Analysis
+# KTP Stability Study - Data Analysis
 
 Accelerated stability study analysis for two pharmaceutical formulations (A014 vs B025), covering data cleaning, trend analysis, formulation comparison and degradation modelling.
 
